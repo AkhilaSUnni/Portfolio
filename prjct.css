@@ -7,7 +7,7 @@
 }
 .main{
   
-   height: 110vh; 
+   height: 110vh; inline-size: 2px;
    margin-left: 250px;
    background-color:  #212428;
  
@@ -451,7 +451,7 @@ display: none;
     font-weight: 300;
     color: rgba(255, 255, 255, 0.75);
     margin-left: 58%;
-    margin-top: -10%;
+    margin-top: -15%;
   }
   .ci2 h2{
     margin-left: 40%;
